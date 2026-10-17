@@ -1,4 +1,6 @@
+
+streamlit
 tensorflow==2.16.1
-streamlit==1.39.0
-numpy
+numpy<2.0
 pillow
+scikit-learn
