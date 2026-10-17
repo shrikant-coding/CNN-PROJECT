@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+cifar-100-python/
+.streamlit/secrets.toml
