@@ -1,5 +1,4 @@
-
-tensorflow>=2.20,<2.23
-streamlit>=1.36,<2
-numpy>=1.24,<3
-Pillow>=10
+tensorflow==2.16.1
+streamlit==1.39.0
+numpy
+pillow
